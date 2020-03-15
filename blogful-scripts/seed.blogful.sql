@@ -1,0 +1,23 @@
+INSERT INTO blogful_articles (title, date_published, content)
+VALUES 
+('title', now(), 'heyooooooo'),
+('blogpost 1', now(), 'contenty content'),
+('blogpost 2', now(), 'I dunno!'),
+('blogpost 3', now(), 'happinesssssss'),
+('blogpost 4', now(), 'ice cream ice cream!'),
+('blogpost 5', now(), 'beddy bed time'),
+('blogpost 6', now(), 'que se yo?'),
+('blogpost 7', now(), 'boopity boop boop'),
+('blogpost 8', now(), 'Ariel has the best hair'),
+('blogpost 9', now(), 'I like you'),
+('blogpost 10', now(), 'because I like your face'),
+('eleven', now(), 'how can I help'),
+('twelve', now(), 'oh I don`t know. doesn`t matter'),
+('thirteen', now(), 'killer queen'),
+('fourteen', now(), 'gunsmoke and turpentine'),
+('fifteen', now(), 'dynamite and a laser beam'),
+('sixteen', now(), 'but I just don`t like it'),
+('seventeen', now(), 'two kinds of ice cream'),
+('eighteen', now(), 'mint chocolate chip'),
+('nineteen', now(), 'and hey- whoever else is there.'),
+('twenty', now(), 'heyooooooo');
